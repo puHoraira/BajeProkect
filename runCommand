@@ -1,1 +1,9 @@
+git clone https://github.com/puHoraira/BajeProkect.git
+
+cd BajeProkect
+
+cd sourceCodes
+
 g++ chessmain.cpp tiktakshape.cpp chessAI.cpp game.cpp starter.cpp chessboard.cpp copyofMain.cpp tiktakevent.cpp main.cpp chess.cpp credit.cpp tiktakrender.cpp piecemanager.cpp -lSDL2 -lSDL2_image -lSDL2_ttf
+
+./a.out
